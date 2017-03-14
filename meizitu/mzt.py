@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
 import os
-from Download import request ##导入模块变了一下
+from Download import request # 导入模块变了一下
 from pymongo import MongoClient
 import datetime
+
 
 class mzitu():
 
